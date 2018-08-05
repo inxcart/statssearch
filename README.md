@@ -1,5 +1,8 @@
 # Shop search
 
+Note: this module has been deprecated with [thirty bees](https://github.com/thirtybees/thirtybees)
+1.0.4 and integrated into the [statsmodule module](https://github.com/thirtybees/statsmodule).
+
 ## About
 
 Adds a tab to the Stats dashboard, showing which keywords have been searched by your store\'s visitors.
